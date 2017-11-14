@@ -30,6 +30,8 @@ public class MainActivity extends AppCompatActivity {
         displayMessage(priceMessage);
     }
 
+
+
     /**
      * increment method
      */
